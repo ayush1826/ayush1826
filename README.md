@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Mittal</h1>
 <h3 align="center">Passionate about Data Science Engineering</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush1826&label=Profile%20views&color=0e75b6&style=flat" alt="ayush1826" /> </p>
 
 Data science is a field that drives my interest. I can say that after working as a business analyst, I like drawing conclusions from the data and translating them into practical business choices. I had the opportunity to oversee a team for a brand-new company area, which taught me about consumer purchasing patterns, market research, sales optimization, and developing a new data-centric strategy for business choices. As I work toward a master’s degree in data science, I’m discovering a more thorough approach to data comprehension that incorporates Deep Learning, Natural Language Processing, Data Warehousing and buidling ETL pipelines.
